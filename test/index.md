@@ -1,3 +1,8 @@
+---
+title: Password protected pages
+author: Dylan Yu
+---
+
 <script>
   window.addEventListener('keydown', event => {
     switch (event.keyCode) {
@@ -35,5 +40,11 @@
   }
 </script>
 
-# Hello!
-Test.
+# Encrypted files
+Just some files I'd like to protect. I've kept these pages simple for the sake of not leaving too much to explore. Return to my website [here](https://yu-dylan.github.io/).
+<!-- I encrypt files with [PageCrypt](https://www.maxlaumeister.com/pagecrypt/). -->
+
+- [Google](/protected/google/): Testing file, contains nothing.
+- [HTML Tutorial](/protected/tutorials/html-tutorial/): HTML tutorial output, see [blog](/posts/html-tutorial/).
+
+<div style="text-align:right">T<font color="white">T</font>h<font color="white">h</font>e<font color="white">e</font> p<font color="white">p</font>a<font color="white">a</font>g<font color="white">s</font>e<font color="white">s</font> i<font color="white">i</font>s<font color="white">s</font> b<font color="white">y</font>o<font color="white">e</font>r<font color="white">l</font>i<font color="white">l</font>n<font color="white">o</font>g<font color="white">w</font></div>
